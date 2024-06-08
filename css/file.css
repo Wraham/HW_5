@@ -1,0 +1,36 @@
+ h2 {
+            background-color:aqua;
+            text-align: center;
+            font-size:30px;
+            font-family: "Open Sans", sans-serif;
+ }
+
+h2 span {
+    color:peru;
+    font-weight:700;
+    text-decoration:underline;
+    }
+
+p  {
+    font-size:20px;
+    font-family: "Roboto" , arial;
+    line-height:30px ;
+
+}    
+p span {
+    
+    font-size: 40px ;
+    font-weight: 700 ;
+    color: red ;
+}
+
+#second_para {
+ color: coral;
+}
+
+a {
+    background-color: brown;
+    color: aliceblue;
+    font-size:20px ;
+    text-decoration:none;
+ }
